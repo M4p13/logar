@@ -1,5 +1,5 @@
 {
-  "name": "logar",
+  "name": "logar-holttem",
   "version": "1.0.0",
   "description": "Does the logging",
   "main": "index.ts",
