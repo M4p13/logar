@@ -1,0 +1,27 @@
+{
+  "name": "logar",
+  "version": "1.0.0",
+  "description": "Does the logging",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M4p13/logar.git"
+  },
+  "keywords": [
+    "logger",
+    "logging",
+    "debug"
+  ],
+  "author": "gert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M4p13/logar/issues"
+  },
+  "homepage": "https://github.com/M4p13/logar#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
